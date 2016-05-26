@@ -3,6 +3,10 @@
 What is psdwatcher?
 #####################
 
+.. image:: https://badges.gitter.im/alice1017/psdwatcher.svg
+   :alt: Join the chat at https://gitter.im/alice1017/psdwatcher
+   :target: https://gitter.im/alice1017/psdwatcher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 **psdwatcher** はPhotoshopで扱う **PSDファイル** の変更を **git** を使ってステージングやコミットを行い、 *いつでも前のバージョン見れるようにする* Pythonスクリプトです。
 
 Install
